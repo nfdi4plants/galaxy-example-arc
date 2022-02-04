@@ -1,5 +1,5 @@
 Input1:
   - class: File
-    location: ../../assays/assay1/sampletext1.txt
+    location: ../../assays/assay1/sampletxt1.txt
   - class: File
-    location: ../../assays/assay1/sampletext2.txt
+    location: ../../assays/assay1/sampletxt2.txt
